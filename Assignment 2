@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+    </header>
+
+    <main>
+        <p>Welcome to my About page!</p>
+        <p>Hello! I am a B.tech AI first-year student who loves
+                web design and programming.</p>
+        <a href="portfolio.index.html">Back to Portfolio</a>
+    </main>
+
+    <footer>
+        <p>Thank you for visiting!</p>
+    </footer>
+</body>
+</html>
